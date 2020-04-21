@@ -1,0 +1,5 @@
+2020-04-21 17:04:18 INFO  LoggerHelper:48 - Google chrome driver instantiated
+2020-04-21 17:04:14 INFO  LoggerHelper:32 - Navigated application url
+2020-04-21 17:04:431 INFO  LoggerHelper:37 - Entered email
+2020-04-21 17:04:865 INFO  LoggerHelper:43 - Entered password
+2020-04-21 17:04:230 INFO  LoggerHelper:49 - Clicked on Login
